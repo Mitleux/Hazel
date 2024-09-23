@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "D:\\Program\\Hazel\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D0DD6C82-6F41-4850-81B8-E384DE6EA965}|Sandbox\\Sandbox.vcxproj|D:\\Program\\Hazel\\Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D0DD6C82-6F41-4850-81B8-E384DE6EA965}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|D:\\Program\\Hazel\\src\\Hazel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|solutionrelative:src\\Hazel\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|D:\\Program\\Hazel\\src\\Hazel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|solutionrelative:src\\Hazel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|D:\\Program\\Hazel\\src\\Hazel\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|solutionrelative:src\\Hazel\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0DD6C82-6F41-4850-81B8-E384DE6EA965}|Sandbox\\Sandbox.vcxproj|D:\\Program\\Hazel\\Sandbox\\src\\SandvoxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D0DD6C82-6F41-4850-81B8-E384DE6EA965}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandvoxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|D:\\Program\\Hazel\\src\\Hazel\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|solutionrelative:src\\Hazel\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|D:\\Program\\Hazel\\src\\Hazel\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|solutionrelative:src\\Hazel\\Core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9ED38A33-DBE4-41FC-931B-F93FEA2BFE44}|Hazel.vcxproj|D:\\Program\\Hazel\\src\\Test.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -39,19 +59,84 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "D:\\Program\\Hazel\\src\\Hazel\\EntryPoint.h",
+              "RelativeDocumentMoniker": "src\\Hazel\\EntryPoint.h",
+              "ToolTip": "D:\\Program\\Hazel\\src\\Hazel\\EntryPoint.h*",
+              "RelativeToolTip": "src\\Hazel\\EntryPoint.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-23T12:43:33.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Hazel.h",
+              "DocumentMoniker": "D:\\Program\\Hazel\\src\\Hazel.h",
+              "RelativeDocumentMoniker": "src\\Hazel.h",
+              "ToolTip": "D:\\Program\\Hazel\\src\\Hazel.h*",
+              "RelativeToolTip": "src\\Hazel.h*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T15:22:27.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Core.h",
+              "DocumentMoniker": "D:\\Program\\Hazel\\src\\Hazel\\Core.h",
+              "RelativeDocumentMoniker": "src\\Hazel\\Core.h",
+              "ToolTip": "D:\\Program\\Hazel\\src\\Hazel\\Core.h",
+              "RelativeToolTip": "src\\Hazel\\Core.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T15:09:08.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Application.cpp",
-              "DocumentMoniker": "D:\\Program\\Hazel\\Sandbox\\src\\Application.cpp",
-              "RelativeDocumentMoniker": "Sandbox\\src\\Application.cpp",
-              "ToolTip": "D:\\Program\\Hazel\\Sandbox\\src\\Application.cpp",
-              "RelativeToolTip": "Sandbox\\src\\Application.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "DocumentMoniker": "D:\\Program\\Hazel\\src\\Hazel\\Application.cpp",
+              "RelativeDocumentMoniker": "src\\Hazel\\Application.cpp",
+              "ToolTip": "D:\\Program\\Hazel\\src\\Hazel\\Application.cpp",
+              "RelativeToolTip": "src\\Hazel\\Application.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-22T15:03:08.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Application.h",
+              "DocumentMoniker": "D:\\Program\\Hazel\\src\\Hazel\\Application.h",
+              "RelativeDocumentMoniker": "src\\Hazel\\Application.h",
+              "ToolTip": "D:\\Program\\Hazel\\src\\Hazel\\Application.h",
+              "RelativeToolTip": "src\\Hazel\\Application.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-22T15:02:23.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SandvoxApp.cpp",
+              "DocumentMoniker": "D:\\Program\\Hazel\\Sandbox\\src\\SandvoxApp.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\src\\SandvoxApp.cpp",
+              "ToolTip": "D:\\Program\\Hazel\\Sandbox\\src\\SandvoxApp.cpp",
+              "RelativeToolTip": "Sandbox\\src\\SandvoxApp.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-22T03:29:54.48Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Test.cpp",
               "DocumentMoniker": "D:\\Program\\Hazel\\src\\Test.cpp",
               "RelativeDocumentMoniker": "src\\Test.cpp",
@@ -63,13 +148,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Test.h",
               "DocumentMoniker": "D:\\Program\\Hazel\\src\\Test.h",
               "RelativeDocumentMoniker": "src\\Test.h",
               "ToolTip": "D:\\Program\\Hazel\\src\\Test.h",
               "RelativeToolTip": "src\\Test.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAADwvwUAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-22T03:24:05.028Z"
             }
